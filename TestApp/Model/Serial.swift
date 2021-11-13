@@ -7,5 +7,21 @@
 
 import Foundation
 
+struct Serial {
+    let name: String
+    let category: String
+    let year: String
+    let description: String
+}
+
+extension Serial {
+    static func getAllSerials() -> [Serial] {
+        
+        
+        
+        
+        return []
+    }
+}
 // Структура сериалов
 // Вызов сериалов
